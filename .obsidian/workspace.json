@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "b7b214e20c06ffb9",
+            "id": "7dd2a96008bd1671",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "カプセル化.md",
+                "file": "オブジェクト指向プログラミング（OOP）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "カプセル化"
+              "title": "オブジェクト指向プログラミング（OOP）"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "カプセル化.md",
+                "file": "オブジェクト指向プログラミング（OOP）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "カプセル化へのバックリンク"
+              "title": "オブジェクト指向プログラミング（OOP）へのバックリンク"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "カプセル化.md",
+                "file": "オブジェクト指向プログラミング（OOP）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "カプセル化からのアウトゴーイングリンク"
+              "title": "オブジェクト指向プログラミング（OOP）からのアウトゴーイングリンク"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "カプセル化.md",
+                "file": "オブジェクト指向プログラミング（OOP）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "カプセル化のアウトライン"
+              "title": "オブジェクト指向プログラミング（OOP）のアウトライン"
             }
           }
         ]
@@ -184,9 +184,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "b7b214e20c06ffb9",
+  "active": "7dd2a96008bd1671",
   "lastOpenFiles": [
     "README.md",
+    "オブジェクト指向プログラミング（OOP）.md",
     "カプセル化.md",
     "無題のフォルダ",
     "クラス.md",
